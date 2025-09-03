@@ -1,5 +1,4 @@
 "use client";
-
 import React, { ReactNode } from "react";
 import { usePathname } from "next/navigation";
 import { Navbar } from "@/components/navbar_footer/NavbarComponent";
